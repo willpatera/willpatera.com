@@ -4,7 +4,13 @@ title: will patera | cv
 
 # Skills
 
-I am a designer, coder, and entrepeneur.
+I am a designer, coder, and entrepeneur. 
+
+I enjoy designing systems and developing tools.
+
+I am excited about eye tracking and it's role in sociotechnical systems.
+
+I believe in open source.
 
 # Employment History
 
@@ -16,7 +22,7 @@ Founding Partner
 
 [INDA](https://cuinda.com) - 2009 - 2014
 
-Year One Coordinator, Design
+Year One Coordinator, Adjunct Professor
 
 # Education
 
@@ -31,3 +37,8 @@ Master of Science (Design & Computation Group)
 [Cornell University](http://aap.cornell.edu/academics/architecture) - 2002-2007
 
 Bachelor of Architecture
+
+# Contact
+
+[email](mailto:hello@willpatera.com) 
+[github](https://github.com/willpatera)
