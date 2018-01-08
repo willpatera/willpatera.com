@@ -4,7 +4,7 @@ title: will patera | cv
 
 # Skills
 
-I am a designer, coder, and entrepeneur. 
+I am a designer, coder, and entrepreneur. 
 
 I enjoy designing systems and developing tools.
 

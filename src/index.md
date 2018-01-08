@@ -6,7 +6,7 @@ My name is Will Patera.
 
 </br>
 
-I am a designer, coder, and entrepeneur. 
+I am a designer, coder, and entrepreneur. 
 
 </br>
 
